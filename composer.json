@@ -1,10 +1,11 @@
 {
-    "name": "marcd-jomedia/7digital",
+    "name": "romanz-hyuna/7digital",
     "description": "Library to use the 7digital API",
     "authors": [
         {
-            "name": "Marc Drolet",
-            "email": "marc.drolet@jomediainc.com"
+            "name": "Roman Zhemchuzhnui",
+            "email": "roman.zhemchujny@hyuna.bb
+"
         }
     ],
     "require": {
